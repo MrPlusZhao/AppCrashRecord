@@ -12,7 +12,8 @@ Exception name: NSRangeException
 Exception action: (进入)ViewController->(进入)ViewControllerA->(离开)ViewControllerA->(进入)ViewControllerA->(进入)ViewControllerB
 
 
-Exception call stack: (
+Exception call stack:
+    
     0   CoreFoundation                      0x000000011067a126 __exceptionPreprocess + 242
     1   libobjc.A.dylib                     0x000000011050af78 objc_exception_throw + 48
     2   CoreFoundation                      0x00000001106c2d6e -[__NSSingleObjectArrayI getObjects:range:] + 0
