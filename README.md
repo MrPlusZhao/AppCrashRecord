@@ -3,7 +3,7 @@ crash崩溃信息捕捉,操作行为记录,上传服务器
 
 log案例
 
-CrashTime: 2020-09-29 154144/Users/zhaotianpeng/Desktop/Xnip2020-09-29_17-20-36.png
+CrashTime: 2020-09-29 154144
 
 Exception reason: *** -[__NSSingleObjectArrayI objectAtIndex:]: index 5 beyond bounds [0 .. 0]
 
