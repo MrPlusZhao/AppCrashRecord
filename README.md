@@ -3,10 +3,15 @@ crash崩溃信息捕捉,操作行为记录,上传服务器
 
 log案例
 
-CrashTime: 2020-09-29 154144
+CrashTime: 2020-09-29 154144/Users/zhaotianpeng/Desktop/Xnip2020-09-29_17-20-36.png
+
 Exception reason: *** -[__NSSingleObjectArrayI objectAtIndex:]: index 5 beyond bounds [0 .. 0]
+
 Exception name: NSRangeException
+
 Exception action: (进入)ViewController->(进入)ViewControllerA->(离开)ViewControllerA->(进入)ViewControllerA->(进入)ViewControllerB
+
+
 Exception call stack: (
     0   CoreFoundation                      0x000000011067a126 __exceptionPreprocess + 242
     1   libobjc.A.dylib                     0x000000011050af78 objc_exception_throw + 48
